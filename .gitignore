@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large reconstructed-audio data (see README for how to regenerate)
+recons_audio/
+
+# Unrelated coursework kept locally, not part of this project
+Bio_medical/
+
+# OS
+Thumbs.db
+.DS_Store

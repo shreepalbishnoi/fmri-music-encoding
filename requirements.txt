@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+librosa
+soundfile
+nibabel
+nilearn
+tqdm
+ipykernel
