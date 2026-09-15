@@ -106,8 +106,3 @@ NIfTI tuning maps (`map_correlation.nii.gz`, `map_timbre_CLEAN.nii.gz`, etc.)
 are generated locally when the scripts are run against the full fMRIPrep
 output and are not checked in.
 
-## Not included
-
-`Bio_medical/` (course-assignment sample images for an unrelated Medical
-Image Processing exercise — T3/T5 tutorials) is kept locally but excluded
-from this repo; it isn't part of this project.
